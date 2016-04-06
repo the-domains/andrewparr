@@ -1,0 +1,28 @@
+name: AndrewParr
+favicon: null
+layout_spectrum: 0.39833148079924285
+typography_spectrum: 0.9901984543539584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2100139504764229
+  lightness: 0.6934696042444557
+  saturation: 0.25312383007258177
+  rhythmicContrast: 0.8144504660740495
+purpose: []
